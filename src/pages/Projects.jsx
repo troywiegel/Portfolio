@@ -1,5 +1,9 @@
 function Projects() {
-  return <h2>Projects</h2>;
+  return (
+    <div className="projectsContainer">
+      <img src={require("../assets/img/1.png")} />
+    </div>
+  );
 }
 
 export default Projects;

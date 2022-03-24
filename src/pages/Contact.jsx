@@ -1,5 +1,9 @@
 function Contact() {
-  return <h2>Contact</h2>;
+  return (
+    <div className="contactContainer">
+      <img src={require("../assets/img/1.png")} />
+    </div>
+  );
 }
 
 export default Contact;

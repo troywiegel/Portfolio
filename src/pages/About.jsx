@@ -1,5 +1,9 @@
 function About() {
-  return <h2>About</h2>;
+  return (
+    <div className="aboutContainer">
+      <img src={require("../assets/img/1.png")} />
+    </div>
+  );
 }
 
 export default About;

@@ -1,3 +1,3 @@
 # Portfolio
 
-## This is my porfolio built with React.
+## This is my portfolio built with React.
