@@ -1,10 +1,4 @@
 import { Link } from "react-router-dom";
-import {
-  FaGithub,
-  FaLinkedin,
-  FaPaperPlane,
-  FaClipboardList,
-} from "react-icons/fa";
 
 function Header() {
   return (
