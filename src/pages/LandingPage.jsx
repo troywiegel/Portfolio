@@ -36,11 +36,10 @@ function LandingPage() {
           <h2>I'm Troy</h2>
           <h3>Web Developer</h3>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia
-            praesentium dignissimos velit! Delectus eaque odit sit quo quasi
-            iure odio.
+            I am a Full-Stack Web Developer with a background in Information
+            Technology and Music Performance. Welcome to my portfolio.
           </p>
-          <Link to="">Explore</Link>
+          <Link to="/projects">Explore</Link>
         </div>
 
         <ul className="social">

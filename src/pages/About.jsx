@@ -20,8 +20,11 @@ function About() {
         />
         <div className="aboutDescription">
           <h2>
-            I'm a full-stack web developer who loves to learn and create. Let's
-            connect and see what we can build together!
+            I love to learn and create new things. I enjoy leveraging my
+            technical background from 12 years in the Information technology
+            field with 15 years of music industry experience to build high
+            quality, creative web applications. Let's connect and see what we
+            can build together!
           </h2>
           <ul>
             <li>
