@@ -1,8 +1,12 @@
+import Background from "../components/Background";
+import Header from "../components/Header";
+
 function Projects() {
   return (
-    <div className="projectsContainer">
-      <img src={require("../assets/img/1.png")} />
-    </div>
+    <>
+      <Background />
+      <Header />
+    </>
   );
 }
 

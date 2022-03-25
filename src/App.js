@@ -13,7 +13,6 @@ function App() {
         <Route exact path="/projects" element={<Projects />} />
         <Route exact path="/contact" element={<Contact />} />
         <Route exact path="/*" element={<LandingPage />} />
-
       </Routes>
     </Router>
   );
