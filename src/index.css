@@ -217,6 +217,7 @@
 .headerContainer {
   display: flex;
   justify-content: space-between;
+  margin-top: 0.5em;
 }
 
 .headerLogo a {
@@ -255,6 +256,8 @@
   align-items: center;
   color: white;
   height: 80vh;
+  width: 70%;
+  margin-left: 5em;
 }
 
 .aboutImg {
