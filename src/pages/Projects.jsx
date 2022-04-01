@@ -3,17 +3,17 @@ import Footer from "../components/Footer";
 
 const projects = [
   {
-    image: require("../assets/img/one.jpg"),
+    image: require("../assets/img/goals.jpg"),
     altText: "Portfolio Project One",
     title: "Goals",
-    body: "This is a full-stack MERN app for achieving your goals. It has full user authentication, authorization and a RESTful CRUD API back-end.",
+    body: "This is a full-stack MERN app for achieving your goals. It has user authentication, authorization and a RESTful CRUD API back-end.",
     gitHubLink: "https://github.com/troywiegel/goals",
     gitHubTitle: "Github",
     deployedLink: "https://goals-10000.herokuapp.com",
     deployedTitle: "Deployed",
   },
   {
-    image: require("../assets/img/two.jpg"),
+    image: require("../assets/img/fluffr.jpg"),
     altText: "Portfolio Project Two",
     title: "Fluffr",
     body: "Find Your Furever Friend! This was a team project where we used a pet finder api to present animals that need adoption.",
@@ -23,7 +23,7 @@ const projects = [
     deployedTitle: "Deployed",
   },
   {
-    image: require("../assets/img/three.jpg"),
+    image: require("../assets/img/coffee.jpg"),
     altText: "Portfolio Project Three",
     title: "Extracted",
     body: "This was a team project where we used a database to store and present the best local coffee shops in the PNW.",
@@ -33,10 +33,10 @@ const projects = [
     deployedTitle: "Deployed",
   },
   {
-    image: require("../assets/img/four.jpg"),
+    image: require("../assets/img/socialNetwork.jpg"),
     altText: "Portfolio Project Four",
     title: "Social Network API",
-    body: "This is an API for a social network web app created using Nodejs, Expressjs and MongoDB/Mongoose.",
+    body: "This is an API for a social network web app with full CRUD functionality, created using Nodejs, Expressjs and MongoDB/Mongoose.",
     gitHubLink: "https://github.com/troywiegel/social-network-api",
     gitHubTitle: "Github",
     deployedLink: "https://github.com/troywiegel/social-network-api",
@@ -52,7 +52,7 @@ function Project() {
         <div className="row">
           {projects.map((project, index) => {
             return (
-              <div className="col s12 m6" key={index}>
+              <div className="col s12 m4" key={index}>
                 <div className="card">
                   <div className="card-image">
                     <img src={project.image} alt={project.altText} />

@@ -217,6 +217,10 @@
   align-items: center;
 }
 
+.projectsContainer {
+  margin-bottom: 20em;
+}
+
 .aboutImg {
   display: block;
   margin-left: auto;
