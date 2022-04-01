@@ -25,11 +25,11 @@ const projects = [
   {
     image: require("../assets/img/three.jpg"),
     altText: "Portfolio Project Three",
-    title: "The Blog",
-    body: "A simple blog app built with React as the front-end and MongoDB/Mongoose as the back-end.",
-    gitHubLink: "https://github.com/troywiegel/the-blog",
+    title: "Extracted",
+    body: "This was a team project where we used a database to store and present the best local coffee shops in the PNW.",
+    gitHubLink: "https://github.com/lyssg2/extracted",
     gitHubTitle: "Github",
-    deployedLink: "https://github.com/troywiegel/the-blog",
+    deployedLink: "https://extracted-coffee.herokuapp.com/",
     deployedTitle: "Deployed",
   },
   {
