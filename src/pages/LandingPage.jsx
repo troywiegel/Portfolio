@@ -9,7 +9,7 @@ import {
 } from "react-icons/fa";
 
 function LandingPage() {
-  const [isActive, setActive] = useState(null);
+  const [isActive, setActive] = useState("");
 
   const handleClick = () => {
     setActive(!isActive);
