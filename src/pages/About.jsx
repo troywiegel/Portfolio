@@ -9,7 +9,7 @@ function About() {
         <div className="row">
           <div className="col">
             <div className="card #e57373 red lighten-2">
-              <div className="card-content white-text">
+              <div className="card-content cardBackground white-text">
                 <img
                   className="aboutImg"
                   src={require("../assets/img/ME.png")}

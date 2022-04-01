@@ -46,7 +46,7 @@
 }
 
 .logo {
-  font-size: 3rem;
+  font-size: 2rem;
   text-transform: uppercase;
   cursor: pointer;
 }
@@ -100,13 +100,13 @@
 .text h2 {
   font-size: 4rem;
   font-weight: 800;
+  line-height: 25%;
   text-transform: uppercase;
 }
 
 .text h3 {
   font-size: 3rem;
   font-weight: 700;
-  line-height: 0.5em;
   text-transform: uppercase;
 }
 
@@ -199,7 +199,7 @@
     font-size: 2em;
   }
   .logo {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 }
 
@@ -222,6 +222,11 @@
 .aboutContent {
   font-size: 1.5rem;
   text-align: center;
+}
+
+.cardBackground {
+  /* background-color: #58a5cc80; */
+  box-shadow: -17px 27px #888888;
 }
 
 .card-action {
@@ -260,4 +265,8 @@ footer ul li a {
 
 footer ul li a:hover {
   transform: scale(2) translateX(10px);
+}
+
+#copyright {
+  text-align: center;
 }
