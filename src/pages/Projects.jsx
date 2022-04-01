@@ -66,7 +66,7 @@ function Project() {
                       href={project.deployedLink}
                       target="_blank"
                       rel="noreferrer"
-                      className="btn #e57373 red lighten-2"
+                      className="btn"
                     >
                       {project.deployedTitle}
                     </a>
@@ -74,7 +74,7 @@ function Project() {
                       href={project.gitHubLink}
                       target="_blank"
                       rel="noreferrer"
-                      className="btn #e57373 red lighten-2"
+                      className="btn"
                     >
                       {project.gitHubTitle}
                     </a>

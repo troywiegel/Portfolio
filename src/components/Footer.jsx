@@ -7,7 +7,7 @@ import {
 
 function Footer() {
   return (
-    <footer className="page-footer">
+    <div className="nav-footer footer-wrapper">
       <div className="container">
         <div className="row">
           <div className="col l6 s12">
@@ -45,7 +45,7 @@ function Footer() {
               </li>
               <li>
                 <a
-                  href="https://drive.google.com/file/d/1O98nPcx7gIXFpKtYDmPLc10Ezn1qriJE/view?usp=sharing"
+                  href="https://drive.google.com/file/d/18XupPr3-BbMeDH0TTa4GVdGetJBdzssu/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -56,12 +56,12 @@ function Footer() {
           </div>
         </div>
       </div>
-      <div className="footer-copyright">
+      <div className="footer-copyright white-text">
         <div className="container" id="copyright">
           Copyright © 2022 - Troy Wiegel
         </div>
       </div>
-    </footer>
+    </div>
   );
 }
 

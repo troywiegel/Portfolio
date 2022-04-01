@@ -8,11 +8,11 @@ function About() {
       <div className="container aboutContainer">
         <div className="row">
           <div className="col">
-            <div className="card #e57373 red lighten-2">
-              <div className="card-content cardBackground white-text">
+            <div className="card">
+              <div className="card-content cardBackground">
                 <img
                   className="aboutImg"
-                  src={require("../assets/img/ME.png")}
+                  src={require("../assets/img/ME3.png")}
                   alt="page background"
                 />
                 <p className="aboutContent">
