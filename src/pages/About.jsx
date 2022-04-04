@@ -12,7 +12,7 @@ function About() {
               <div className="card-content cardBackground">
                 <img
                   className="aboutImg"
-                  src={require("../assets/img/ME3.png")}
+                  src={require("../assets/img/ME6.jpg")}
                   alt="page background"
                 />
                 <p className="aboutContent">

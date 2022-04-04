@@ -18,7 +18,7 @@ function Contact() {
               <div className="card-content cardBackground white-text">
                 <img
                   className="aboutImg"
-                  src={require("../assets/img/ME2.png")}
+                  src={require("../assets/img/ME5.jpg")}
                   alt="page background"
                 />
                 <p className="aboutContent">
