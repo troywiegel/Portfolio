@@ -214,13 +214,13 @@
 .aboutContainer {
   display: flex;
   align-items: center;
-  margin-bottom: 1.0em;
+  margin-bottom: 3.6em;
 }
 
 .contactContainer {
   display: flex;
   align-items: center;
-  margin-bottom: 3.1em;
+  margin-bottom: 3.6em;
 }
 
 .projectsContainer {
