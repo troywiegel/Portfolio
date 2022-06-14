@@ -13,16 +13,6 @@ const projects = [
     deployedTitle: "Deployed",
   },
   {
-    image: require("../assets/img/fluffr.jpg"),
-    altText: "Portfolio Project Two",
-    title: "Fluffr",
-    body: "Find Your Furever Friend! This was a team project where we used a pet finder api to present animals that need adoption.",
-    gitHubLink: "https://github.com/mteubnerfoster/fluffr",
-    gitHubTitle: "Github",
-    deployedLink: "https://fluffr.herokuapp.com/",
-    deployedTitle: "Deployed",
-  },
-  {
     image: require("../assets/img/coffee.jpg"),
     altText: "Portfolio Project Three",
     title: "Extracted",
