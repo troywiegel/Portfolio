@@ -50,7 +50,7 @@ function Contact() {
                   </li>
                   <li>
                     <a
-                      href="https://drive.google.com/file/d/18XupPr3-BbMeDH0TTa4GVdGetJBdzssu/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1b2t-ETBcAukBnG0wy54gRXTauV_ttPpx/view?usp=sharing"
                       target="_blank"
                       rel="noreferrer"
                     >
